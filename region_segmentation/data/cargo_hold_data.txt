@@ -1,0 +1,406 @@
+Params:
+Dist Point Plane:0.1
+Min Points in Plane:400
+MSE:0.02
+Delta:0.1
+KNN:5
+#####################################
+Number of Planes: 36
+##############################
+##############################
+Object Nr: 1
+Size of Plane: 44.4393
+Rectangularness: 0.194858
+Position: 4.08665,-3.25751,0.0166136
+Intertia AxisX: -0.982114,-0.188251,-0.00361136
+Intertia AxisY: 0.188248,-0.982121,0.00124224
+Normal: -0.00378064,0.000540186,0.999993
+orthoG: 7.29256e-06
+paralG: 0.999993
+Max Extension (w,h): 16.5393, 13.789
+##############################
+Object Nr: 2
+Size of Plane: 8.28689
+Rectangularness: 0.967569
+Position: 15.4869,-1.82602,6.45402
+Intertia AxisX: 0.5216,0.853187,-0.00246145
+Intertia AxisY: 0.000616886,0.00250786,0.999997
+Normal: -0.85319,0.5216,-0.00078178
+orthoG: 0.999218
+paralG: 0.00078178
+Max Extension (w,h): 5.96899, 1.43486
+##############################
+Object Nr: 3
+Size of Plane: 7.28633
+Rectangularness: 0.910941
+Position: 1.12996,11.2587,6.51652
+Intertia AxisX: -0.84623,0.532183,-0.0260164
+Intertia AxisY: 0.0231171,-0.0121109,-0.999659
+Normal: -0.532317,-0.846543,-0.0020539
+orthoG: 0.997946
+paralG: 0.0020539
+Max Extension (w,h): 6.16914, 1.29656
+##############################
+Object Nr: 4
+Size of Plane: 7.10396
+Rectangularness: 0.929986
+Position: 8.64832,6.53482,6.51472
+Intertia AxisX: 0.843103,-0.537745,-0.00270882
+Intertia AxisY: 0.0015828,-0.00255576,0.999995
+Normal: -0.537749,-0.843104,-0.00130363
+orthoG: 0.998696
+paralG: 0.00130363
+Max Extension (w,h): 6.16309, 1.23944
+##############################
+Object Nr: 5
+Size of Plane: 19.1996
+Rectangularness: 0.0832847
+Position: 11.9701,-6.19506,6.86765
+Intertia AxisX: 0.0215964,0.0362148,0.999111
+Intertia AxisY: 0.530643,0.846547,-0.042155
+Normal: -0.84732,0.531081,-0.00093473
+orthoG: 0.999065
+paralG: 0.00093473
+Max Extension (w,h): 17.13, 13.4577
+##############################
+Object Nr: 6
+Size of Plane: 7.60314
+Rectangularness: 0.872816
+Position: 6.10256,8.13747,6.51691
+Intertia AxisX: 0.847132,-0.53133,-0.00751181
+Intertia AxisY: 0.00529739,-0.00569136,0.99997
+Normal: -0.531357,-0.847146,-0.00200667
+orthoG: 0.997993
+paralG: 0.00200667
+Max Extension (w,h): 6.16997, 1.41184
+##############################
+Object Nr: 7
+Size of Plane: 58.7513
+Rectangularness: 0.622172
+Position: 6.82539,5.41921,1.83859
+Intertia AxisX: -0.466897,-0.589604,-0.659071
+Intertia AxisY: 0.811119,-0.582422,-0.0535764
+Normal: -0.352269,-0.5596,0.75017
+orthoG: 0.24983
+paralG: 0.75017
+Max Extension (w,h): 17.7274, 5.32674
+##############################
+Object Nr: 8
+Size of Plane: 5.8117
+Rectangularness: 0.903096
+Position: 13.6753,3.36006,6.52213
+Intertia AxisX: 0.831529,-0.555418,0.0084091
+Intertia AxisY: -0.00742915,0.00401724,0.999964
+Normal: -0.555432,-0.831561,-0.000785834
+orthoG: 0.999214
+paralG: 0.000785834
+Max Extension (w,h): 6.12936, 1.04991
+##############################
+Object Nr: 9
+Size of Plane: 1.18387
+Rectangularness: 0.903553
+Position: 5.42705,8.27149,6.50223
+Intertia AxisX: -0.842028,0.53943,-0.00199679
+Intertia AxisY: 0.00289518,0.000817622,-0.999995
+Normal: -0.539426,-0.84203,-0.00225021
+orthoG: 0.99775
+paralG: 0.00225021
+Max Extension (w,h): 5.58315, 0.234677
+##############################
+Object Nr: 10
+Size of Plane: 0.717706
+Rectangularness: 0.345282
+Position: 0.439601,9.72433,2.05602
+Intertia AxisX: 0.93749,-0.111164,0.329779
+Intertia AxisY: -0.0987772,0.823642,0.558441
+Normal: -0.333699,-0.556108,0.761176
+orthoG: 0.238824
+paralG: 0.761176
+Max Extension (w,h): 2.91195, 0.713819
+##############################
+Object Nr: 11
+Size of Plane: 1.03309
+Rectangularness: 0.207861
+Position: 1.59761,10.4937,6.5423
+Intertia AxisX: 0.747818,0.663583,0.0206274
+Intertia AxisY: 0.010643,0.0190835,-0.999761
+Normal: -0.663819,0.747859,0.00720847
+orthoG: 0.992792
+paralG: 0.00720847
+Max Extension (w,h): 6.44686, 0.770932
+##############################
+Object Nr: 12
+Size of Plane: 7.46411
+Rectangularness: 0.893348
+Position: 4.86673,8.91519,6.62857
+Intertia AxisX: 0.847047,-0.5315,-0.00433196
+Intertia AxisY: 0.00228756,-0.00450466,0.999987
+Normal: -0.531513,-0.847046,-0.00259982
+orthoG: 0.9974
+paralG: 0.00259982
+Max Extension (w,h): 5.93762, 1.40716
+##############################
+Object Nr: 13
+Size of Plane: 7.06216
+Rectangularness: 0.894659
+Position: 7.38281,7.33274,6.63094
+Intertia AxisX: -0.84441,0.535696,0.00144699
+Intertia AxisY: -7.8876e-05,-0.00282547,0.999996
+Normal: 0.535698,0.844406,0.0024281
+orthoG: 0.997572
+paralG: 0.0024281
+Max Extension (w,h): 5.94279, 1.32828
+##############################
+Object Nr: 14
+Size of Plane: 72.5332
+Rectangularness: 0.554048
+Position: 6.81978,4.23535,10.9939
+Intertia AxisX: -0.499532,-0.678476,0.538645
+Intertia AxisY: 0.817066,-0.575617,0.0326888
+Normal: 0.287875,0.456437,0.841899
+orthoG: 0.158101
+paralG: 0.841899
+Max Extension (w,h): 18.569, 7.05018
+##############################
+Object Nr: 15
+Size of Plane: 5.8644
+Rectangularness: 0.943906
+Position: 9.91293,5.73767,6.33555
+Intertia AxisX: 0.839212,-0.543799,-0.00250179
+Intertia AxisY: 0.0014717,-0.00232937,0.999996
+Normal: -0.543803,-0.839212,-0.00115452
+orthoG: 0.998845
+paralG: 0.00115452
+Max Extension (w,h): 5.3295, 1.16576
+##############################
+Object Nr: 16
+Size of Plane: 14.9158
+Rectangularness: 0.505617
+Position: 7.16848,-7.00091,14.2952
+Intertia AxisX: 0.00471361,0.0290954,0.999566
+Intertia AxisY: -0.530939,-0.846975,0.0271575
+Normal: -0.847397,0.530837,-0.0114556
+orthoG: 0.988544
+paralG: 0.0114556
+Max Extension (w,h): 11.7205, 2.51698
+##############################
+Object Nr: 17
+Size of Plane: 10.2341
+Rectangularness: 0.97849
+Position: 11.7454,-7.92703,6.40964
+Intertia AxisX: 0.532588,0.846374,-0.00066804
+Intertia AxisY: -0.000606481,0.00117093,0.999999
+Normal: -0.846374,0.532587,-0.00113693
+orthoG: 0.998863
+paralG: 0.00113693
+Max Extension (w,h): 5.96228, 1.7542
+##############################
+Object Nr: 18
+Size of Plane: 0.0637733
+Rectangularness: 0.028656
+Position: 0.47868,9.70463,2.06132
+Intertia AxisX: 0.939156,-0.12803,0.318739
+Intertia AxisY: -0.0803276,0.820346,0.566198
+Normal: -0.333967,-0.557352,0.760148
+orthoG: 0.239852
+paralG: 0.760148
+Max Extension (w,h): 3.10682, 0.716321
+##############################
+Object Nr: 19
+Size of Plane: 23.6758
+Rectangularness: 0.554406
+Position: 8.91498,-7.44578,13.5791
+Intertia AxisX: -0.881578,0.472036,0.00123328
+Intertia AxisY: -0.472037,-0.881578,-0.0011258
+Normal: 0.000555815,-0.00157464,0.999999
+orthoG: 1.39421e-06
+paralG: 0.999999
+Max Extension (w,h): 11.7211, 3.64341
+##############################
+Object Nr: 20
+Size of Plane: 3.35953
+Rectangularness: 0.936713
+Position: 8.18962,-13.6482,6.34883
+Intertia AxisX: 0.528679,0.848819,-0.00205365
+Intertia AxisY: 0.000491918,0.00211303,0.999998
+Normal: -0.848822,0.528679,-0.000699563
+orthoG: 0.9993
+paralG: 0.000699563
+Max Extension (w,h): 5.95386, 0.602384
+##############################
+Object Nr: 21
+Size of Plane: 6.88126
+Rectangularness: 0.352177
+Position: 1.81311,5.3145,13.8459
+Intertia AxisX: 0.242854,-0.154636,0.957658
+Intertia AxisY: -0.810872,0.509509,0.287902
+Normal: 0.532455,0.846456,0.00165367
+orthoG: 0.998346
+paralG: 0.00165367
+Max Extension (w,h): 6.20842, 3.14721
+##############################
+Object Nr: 22
+Size of Plane: 9.56853
+Rectangularness: 0.985833
+Position: 9.84809,-10.9779,6.38709
+Intertia AxisX: 0.534722,0.845025,-0.00234661
+Intertia AxisY: 0.000670661,0.00235258,0.999997
+Normal: -0.845028,0.534722,-0.000691249
+orthoG: 0.999309
+paralG: 0.000691249
+Max Extension (w,h): 5.95908, 1.62878
+##############################
+Object Nr: 23
+Size of Plane: 7.43037
+Rectangularness: 0.908935
+Position: 3.61432,9.7013,6.62005
+Intertia AxisX: 0.847208,-0.531233,-0.00548301
+Intertia AxisY: 0.00350193,-0.00473625,0.999983
+Normal: -0.53125,-0.847213,-0.00215225
+orthoG: 0.997848
+paralG: 0.00215225
+Max Extension (w,h): 5.95365, 1.37307
+##############################
+Object Nr: 24
+Size of Plane: 1.14443
+Rectangularness: 0.872179
+Position: 6.66161,7.49653,6.4969
+Intertia AxisX: -0.832279,0.554347,-0.00348428
+Intertia AxisY: 0.00427985,0.000140307,-0.999991
+Normal: -0.554341,-0.832286,-0.00248929
+orthoG: 0.997511
+paralG: 0.00248929
+Max Extension (w,h): 5.56593, 0.235747
+##############################
+Object Nr: 25
+Size of Plane: 1.14513
+Rectangularness: 0.86158
+Position: 7.89453,6.7231,6.49013
+Intertia AxisX: -0.809968,0.586468,-0.00259832
+Intertia AxisY: 0.00402086,0.00112277,-0.999991
+Normal: -0.58646,-0.809971,-0.00326751
+orthoG: 0.996732
+paralG: 0.00326751
+Max Extension (w,h): 5.51882, 0.24083
+##############################
+Object Nr: 26
+Size of Plane: 1.03145
+Rectangularness: 0.309504
+Position: 2.82941,9.73645,6.34046
+Intertia AxisX: 0.837838,0.545831,-0.00981035
+Intertia AxisY: 0.00968547,0.00310534,0.999948
+Normal: 0.545833,-0.837889,-0.00268486
+orthoG: 0.997315
+paralG: 0.00268486
+Max Extension (w,h): 6.36028, 0.52397
+##############################
+Object Nr: 27
+Size of Plane: 3.07038
+Rectangularness: 0.833729
+Position: 12.8813,3.81774,6.31928
+Intertia AxisX: -0.342828,0.939391,0.00370741
+Intertia AxisY: 0.00185179,-0.00327078,0.999993
+Normal: -0.939397,-0.342832,0.000618245
+orthoG: 0.999382
+paralG: 0.000618245
+Max Extension (w,h): 6.19507, 0.594457
+##############################
+Object Nr: 28
+Size of Plane: 9.68686
+Rectangularness: 0.976013
+Position: 13.6309,-4.87104,6.4249
+Intertia AxisX: 0.526614,0.850104,8.10856e-05
+Intertia AxisY: -0.000731171,0.000357556,1
+Normal: -0.850104,0.526614,-0.000809866
+orthoG: 0.99919
+paralG: 0.000809866
+Max Extension (w,h): 5.96365, 1.66424
+##############################
+Object Nr: 29
+Size of Plane: 2.22102
+Rectangularness: 0.799248
+Position: 11.0416,4.83643,4.9321
+Intertia AxisX: -0.844587,0.534091,-0.0376826
+Intertia AxisY: -0.0322483,0.0195086,0.999289
+Normal: -0.534446,-0.845202,-0.000746841
+orthoG: 0.999253
+paralG: 0.000746841
+Max Extension (w,h): 2.89628, 0.959465
+##############################
+Object Nr: 30
+Size of Plane: 7.34882
+Rectangularness: 0.928786
+Position: 2.39351,10.4668,6.58974
+Intertia AxisX: 0.834891,-0.550414,0.000548959
+Intertia AxisY: -0.00143613,-0.00118103,0.999998
+Normal: -0.550413,-0.834891,-0.0017765
+orthoG: 0.998224
+paralG: 0.0017765
+Max Extension (w,h): 6.0133, 1.3158
+##############################
+Object Nr: 31
+Size of Plane: 0.151494
+Rectangularness: 0.151476
+Position: 0.323863,9.64686,1.94617
+Intertia AxisX: 0.939585,-0.100955,0.327089
+Intertia AxisY: -0.104171,0.825878,0.554142
+Normal: -0.326079,-0.554737,0.765467
+orthoG: 0.234533
+paralG: 0.765467
+Max Extension (w,h): 2.07047, 0.48304
+##############################
+Object Nr: 32
+Size of Plane: 3.27397
+Rectangularness: 0.858254
+Position: 11.2519,5.02283,7.97245
+Intertia AxisX: -0.833062,0.550146,-0.0578635
+Intertia AxisY: -0.0507462,0.0281586,0.998315
+Normal: -0.550848,-0.834594,-0.00445998
+orthoG: 0.99554
+paralG: 0.00445998
+Max Extension (w,h): 3.49904, 1.09021
+##############################
+Object Nr: 33
+Size of Plane: 4.11491
+Rectangularness: 0.861976
+Position: 12.2915,4.23815,6.51644
+Intertia AxisX: 0.844905,-0.534903,-0.00373492
+Intertia AxisY: 0.00262149,-0.0028416,0.999993
+Normal: -0.53491,-0.844909,-0.000998636
+orthoG: 0.999001
+paralG: 0.000998636
+Max Extension (w,h): 6.13925, 0.777589
+##############################
+Object Nr: 34
+Size of Plane: 0.979344
+Rectangularness: 0.742221
+Position: 4.19223,9.04686,6.5349
+Intertia AxisX: 0.845339,-0.534231,3.46567e-05
+Intertia AxisY: -0.00094977,-0.00143799,0.999999
+Normal: -0.53423,-0.845338,-0.00172299
+orthoG: 0.998277
+paralG: 0.00172299
+Max Extension (w,h): 5.672, 0.23263
+##############################
+Object Nr: 35
+Size of Plane: 1.27131
+Rectangularness: 0.837792
+Position: 9.17825,6.07554,6.18587
+Intertia AxisX: -0.670693,0.741722,0.00431407
+Intertia AxisY: -0.00255489,0.003506,-0.999991
+Normal: 0.74173,0.670698,0.00045643
+orthoG: 0.999544
+paralG: 0.00045643
+Max Extension (w,h): 5.62309, 0.269861
+##############################
+Object Nr: 36
+Size of Plane: 3.34397
+Rectangularness: 0.773478
+Position: 14.8213,2.64384,6.39917
+Intertia AxisX: 0.846506,-0.532353,0.00531674
+Intertia AxisY: -0.00480178,0.0023517,0.999986
+Normal: -0.532357,-0.846519,-0.000565515
+orthoG: 0.999434
+paralG: 0.000565515
+Max Extension (w,h): 5.79536, 0.74599
+##############################

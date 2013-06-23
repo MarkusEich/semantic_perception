@@ -1,0 +1,17 @@
+<package>
+  <description brief="region_segmentation">
+
+     region_segmentation. The node will segment resions and extract plane features based on region growing and CGAL.
+
+
+  </description>
+  <author>Markus Eich</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/region_segmentation</url>
+  <depend package="sensor_msgs"/>
+  <depend package="roscpp"/>
+  <depend package="impera_shape_msgs"/>
+</package>
+
+

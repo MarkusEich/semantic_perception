@@ -1,0 +1,17 @@
+<launch>
+ <master auto="start"/>
+
+ <!--include file="$(find plane_segmentation)/launch/segmentation.launch"/-->
+
+
+  <node pkg="cylinder_segmentation" type="cylinder_segmentation" name="cylinder_segmentation" respawn="false" output="screen">
+    <remap from="cloud" to="plane_residuals"/>
+    <param name="ransac_iterations" type="int" value="10000"/>
+    <!--param name="ransac_dist_thresold" type="double" value="0.05"/-->
+    <param name="ransac_dist_thresold" type="double" value="0.07"/>
+    <param name="ransac_min_radius" type="double" value="0.00"/>
+    <param name="ransac_max_radius" type="double" value="0.5"/>
+    <param name="min_likelihood" type="double" value="0.10"/>
+   </node>
+
+</launch>

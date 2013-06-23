@@ -1,0 +1,21 @@
+<package>
+  <description brief="feature_extractor">
+    This node extracts all features of spatial entities needed by the classifier.
+ Features include convex and concave hull, area, holes and rectangularness, etc.
+
+
+  </description>
+  <author></author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/feature_extractor</url>
+  <depend package="roscpp"/>
+  <depend package="tf"/>
+  <depend package="visualization_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="eigen"/>
+  <depend package="pcl"/>
+  <depend package="shape_msgs"/>
+  <depend package="cv_bridge"/>
+  <rosdep name="opencv2.3"/>
+</package>

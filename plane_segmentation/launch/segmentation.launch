@@ -1,0 +1,17 @@
+<launch>
+ <master auto="start"/>
+  <node pkg="plane_segmentation" type="plane_segmentation" name="plane_segmentation" respawn="false" output="screen" args="cloud:=cloud"/>
+    <group ns="plane_segmentation">
+    <param name="ransac_iterations" type="int" value="1000"/>
+    <param name="ransac_dist_thresold" type="double" value="0.07"/>
+    <!--param name="ransac_dist_thresold" type="double" value="0.05"/-->
+    <!--param name="ransac_normal_dist_weight" type="double" value="0.15"/-->
+    <param name="ransac_normal_dist_weight" type="double" value="0.10"/>
+    <param name="segmentation_cluster_dist" type="double" value="0.1"/>
+    <param name="segmentation_cluster_dist" type="double" value="0.05"/>
+    <param name="outlier_radius" type="double" value="0.20"/>
+    <param name="outlier_nn" type="int" value="30"/>
+    <param name="min_cluster_size" type="int" value="50"/>
+   </group>
+
+</launch>

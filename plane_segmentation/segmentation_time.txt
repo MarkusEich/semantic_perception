@@ -1,0 +1,5 @@
+Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz
+Points: 263987 
+Time: 25,4778
+
+

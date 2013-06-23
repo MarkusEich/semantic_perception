@@ -1,0 +1,84 @@
+Object Nr: 1
+Size of Plane: 21.0266
+Rectangularness: 0.952631
+Position: 1.09839,4.16967,5.06657
+Normal: -0.0040339,-0.999985,-0.00373787
+Max Extension (w,h): 10.1032, 2.18467
+##############################
+Object Nr: 2
+Size of Plane: 21.3068
+Rectangularness: 0.968077
+Position: 3.63785,4.15944,5.06493
+Normal: 0.00403387,0.999985,0.00373789
+Max Extension (w,h): 10.0833, 2.18277
+##############################
+Object Nr: 3
+Size of Plane: 13.4645
+Rectangularness: 0.875694
+Position: 6.1898,4.14437,6.34041
+Normal: -0.0040339,-0.999985,-0.00373788
+Max Extension (w,h): 7.46967, 2.05844
+##############################
+Object Nr: 4
+Size of Plane: 58.8498
+Rectangularness: 0.874776
+Position: 3.36327,-2.08918,0.0116533
+Normal: -0.00357939,0.00191667,0.999992
+Max Extension (w,h): 12.455, 5.40137
+##############################
+Object Nr: 5
+Size of Plane: 20.8554
+Rectangularness: 0.9666
+Position: 1.07751,-8.3648,5.06381
+Normal: -0.00266992,0.999995,-0.00186758
+Max Extension (w,h): 10.0683, 2.14297
+##############################
+Object Nr: 6
+Size of Plane: 21.2358
+Rectangularness: 0.981509
+Position: 3.57852,-8.35814,5.05715
+Normal: 0.00266999,-0.999995,0.00186759
+Max Extension (w,h): 10.0672, 2.14915
+##############################
+Object Nr: 7
+Size of Plane: 20.8919
+Rectangularness: 0.988537
+Position: 6.10504,-8.35139,5.05584
+Normal: 0.00267001,-0.999995,0.00186757
+Max Extension (w,h): 10.0622, 2.10035
+##############################
+Object Nr: 8
+Size of Plane: 14.3363
+Rectangularness: 0.948846
+Position: 8.61009,-8.34229,6.34788
+Normal: 0.00266993,-0.999995,0.00186753
+Max Extension (w,h): 7.47521, 2.02124
+##############################
+Object Nr: 9
+Size of Plane: 15.1061
+Rectangularness: 0.988916
+Position: 4.8394,0.732617,1.32278
+Normal: -0.999992,-0.0024355,0.00327577
+Max Extension (w,h): 6.07659, 2.51382
+##############################
+Object Nr: 10
+Size of Plane: 63.0113
+Rectangularness: 0.728091
+Position: 10.6027,-3.48637,6.80226
+Normal: -0.999999,0.000800235,-0.00139851
+Max Extension (w,h): 12.041, 7.18735
+##############################
+Object Nr: 11
+Size of Plane: 12.772
+Rectangularness: 1.00411
+Position: 7.37069,0.74024,3.96187
+Normal: 0.999998,-0.00106888,-0.00169744
+Max Extension (w,h): 6.03524, 2.10757
+##############################
+Object Nr: 12
+Size of Plane: 12.1627
+Rectangularness: 0.979033
+Position: 7.33121,-5.67934,1.2878
+Normal: -0.999998,0.00106886,0.00169742
+Max Extension (w,h): 4.93072, 2.51954
+##############################

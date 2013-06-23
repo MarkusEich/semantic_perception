@@ -1,0 +1,7 @@
+#service call set params
+float64 point_neighbor_distance # Maximum distance between each point and its neighbors.
+float64 point_plane_distance # Maximum distance between points and the plane.
+float64 mse # Maximum MSE for planes.
+int32 min_points #  Minimum number of points in the plane.
+int32 KNN #Number of nearest neighbors, which are considered.
+---

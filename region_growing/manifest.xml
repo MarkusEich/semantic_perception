@@ -1,0 +1,15 @@
+<package>
+    <description brief="PLY library">
+	Ply library for import and exports a ply files.
+    </description>
+    <depend package="recognition/common"/>
+    <depend package="recognition/ply"/>
+    <depend package="recognition/visualization"/>
+    <depend package="cgal"/>
+    <depend package="gsl"/>
+    <depend package="blas"/>
+    <depend package="boost"/>
+    <depend package="eigen3"/>
+    <depend package="opencv"/>
+    <depend package="db"/>
+</package>

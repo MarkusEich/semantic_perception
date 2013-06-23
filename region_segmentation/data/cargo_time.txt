@@ -1,0 +1,3 @@
+Points: 271923 
+Time:  109,489070733 sec
+CPU: Intel(R) Core(TM) i7-2620M CPU @ 2.70GHz

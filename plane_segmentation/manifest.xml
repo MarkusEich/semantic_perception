@@ -1,0 +1,19 @@
+<package>
+  <description brief="plane_segmentation">
+
+     plane_segmentation
+
+  </description>
+  <author></author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/plane_segmentation</url>
+  <!--depend package="roscpp"/-->
+  <!--depend package="pcl"/-->
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="impera_shape_msgs"/>
+  <!--depend package="impera_common_srvs"/-->
+</package>
+
+

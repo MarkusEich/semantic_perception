@@ -1,0 +1,9 @@
+<launch>
+ <master auto="start"/>
+
+   <node pkg="feature_extractor" type="feature_extractor" name="feature_extraction" respawn="false" output="screen"/>
+    <group ns="feature_extraction">
+    <param name="alpha_value" type="double" value="0.10"/>
+   </group>
+
+</launch>

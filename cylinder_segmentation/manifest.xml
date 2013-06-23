@@ -1,0 +1,15 @@
+<package>
+  <description brief="cylinder_segmentation">
+     cylinder_segmentation
+  </description>
+  <author></author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cylinder_segmentation</url>
+  <depend package="roscpp"/>
+  <depend package="tf"/>
+  <depend package="sensor_msgs"/>
+  <depend package="impera_shape_msgs"/>
+  <depend package="reasoner_msgs"/>
+  <depend package="fuzzy_dl_producer"/>
+</package>

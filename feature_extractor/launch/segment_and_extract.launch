@@ -1,0 +1,28 @@
+<launch>
+ <master auto="start"/>
+
+   <node pkg="feature_extractor" type="feature_extractor" name="feature_extraction" respawn="false" output="screen"/>
+    <group ns="feature_extractor">
+    <param name="alpha_value" type="double" value="0.3"/>
+   </group>
+
+   <node pkg="plane_segmentation" type="plane_segmentation" name="plane_segmentation" respawn="false" output="screen" args="cloud:=cloud"/>
+    <group ns="plane_segmentation">
+    <param name="left_border" type="double" value="10.0"/>
+    <param name="right_border" type="double" value="-10.0"/>
+    <param name="top_border" type="double" value="10.0"/>
+    <param name="bottom_border" type="double" value="-10.0"/>
+    <param name="front_border" type="double" value="10.0"/>
+    <param name="rear_border" type="double" value="-10.0"/>
+    <param name="ransac_iterations" type="int" value="1000"/>
+    <param name="ransac_dist_thresold" type="double" value="0.05"/>
+    <param name="ransac_normal_dist_weight" type="double" value="0.10"/>
+    <param name="segmentation_cluster_dist" type="double" value="0.1"/>
+    <param name="outlier_radius" type="double" value="0.20"/>
+    <param name="outlier_nn" type="int" value="30"/>
+   </group>
+
+
+
+
+</launch>
