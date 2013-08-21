@@ -1,0 +1,11 @@
+<package>
+  <description brief="Object detection library from camera and depth images">
+    Library for detecting primitive objects in RGB and RGBD images based on color and shape segmentation.
+  </description>
+  <author>Jakob Schwendner/jakob.schwendner@dfki.de</author>
+  <license>LGPL</license>
+  <depend package="base/types" />
+  <depend package="opencv" />
+  <depend package="boost" />
+  <depend package="image_processing/segmentation" />
+ </package>

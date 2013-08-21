@@ -1,0 +1,12 @@
+<package>
+    <description brief="Library for plane segmantion and 2D spatial plane feautre extraction">
+      Library for extraction of features, 2D segmentation based region growing
+    </description>
+    <author>Malgosia Goldhorn, Markus Eich</author>
+    <depend package="base/cmake" />
+    <depend package="cgal"/>
+    <depend package="boost"/>
+    <depend package="opencv"/>
+    <depend package="gsl"/>
+    <depend package="eigen3"/>
+</package>
